@@ -1,0 +1,3 @@
+- RPi sends you weather updates
+- RPi as an alarm clock
+- 
