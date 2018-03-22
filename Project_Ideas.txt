@@ -1,13 +1,19 @@
 - RPi sends you weather updates
 - RPi as an alarm clock
 - 
-
+RPi to Call Phone. 
 
 - RPi Home Security for my sketchy apartment
 	Utilize OpenCV, camera, or motion sensing to detect movement
 	Send SMS text message when unknown person in apartment
 	Allow streaming of video from private webpage/ server
+
+RPi Zelda Home Automation
+https://www.youtube.com/watch?v=glZnkpIDWSE
 	
+	
+RPi Stock Ticker
+
 - RPi 3D scanner
 	
 	
