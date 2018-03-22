@@ -1,3 +1,23 @@
 - RPi sends you weather updates
 - RPi as an alarm clock
 - 
+
+
+- RPi Home Security for my sketchy apartment
+	Utilize OpenCV, camera, or motion sensing to detect movement
+	Send SMS text message when unknown person in apartment
+	Allow streaming of video from private webpage/ server
+	
+- RPi 3D scanner
+	
+	
+- RPi 3D printer
+
+RPi Retro game emulator
+	Play old SuperNintendo games with controller setup using emulator installed on Rpi
+
+Analog Synthesizer (not RPi)
+		http://web.media.mit.edu/~joep/papers/EarlySynthesizerReport.pdf
+		
+		
+		
